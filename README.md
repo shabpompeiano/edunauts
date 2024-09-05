@@ -5,7 +5,7 @@ With Eduverse I offer tutorials, guides, and educational material on software en
 <br>
 <br>
 <br>
-## Kickstart your tech journey from zero to hero
+## Kickstart your journey from zero to  AI hero
   - 🚀 **Ready for Liftoff?** [**Take off! 🚀**](#link)
 
 This series is designed for absolute beginners, guiding you from your very first line of code to a solid foundation in software development. No prior experience required—just your curiosity and willingness to learn.
