@@ -9,7 +9,7 @@ With Eduverse I offer tutorials, guides, and educational material on software en
 
 <br><br><br>
 
-## 🚀 Explore Our Courses
+## 🚀 Explore The Courses
 1. **[Liftoff: Understanding the Basics of Software]()**
    - Dive into the fundamentals of software, from natural language to binary code.
 
