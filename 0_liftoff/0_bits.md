@@ -82,8 +82,7 @@ OUT 42h, AL
 This example is far more abstracted from natural language, representing 
 specific instructions that directly interact with the computer's hardware.
 
-Don't worry if you cannot understand the code, I myself am not very fond 
-of this programming language 😄.
+Don't worry if you cannot understand the code, I myself don't get along with the assembly language 🤯!
 
 <br>
 
