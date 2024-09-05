@@ -6,7 +6,7 @@ Imagine attending a series of workshops, each with different tools, setups, and 
 
 Now, imagine you brought your own suitcase to each workshop. Inside, everything is perfectly organized: tools, instructions, even snacks! No matter which workshop you go to, you just open your suitcase, and you’re ready to go—everything works as expected.
 
-Docker works in a similar way. In software development, each environment (development, testing, production) can be like a messy workshop—different setups, missing dependencies, or misconfigured systems. Docker lets you pack everything your application needs into its own "suitcase" (called a container). No matter where you take your app, it will always have what it needs to work, and it won’t be affected by the mess around it.
+Docker works in a similar way. In software development, each environment (development, testing, production) can be like a messy workshop—different setups, missing dependencies, or misconfigured systems. Docker lets you pack everything your application needs into its own "suitcase" (called a **container**). No matter where you take your app, it will always have what it needs to work, and it won’t be affected by the mess around it.
 
 ## Diving Deeper: What Makes Docker Special?
 
