@@ -1,7 +1,11 @@
 # 🚀 Liftoff: Understanding the Basics of Software
 
+<br>
+
 Welcome to **Liftoff**, your starting point for understanding the world of 
 software!
+
+<br>
 
 ## 🌐 What Is Software?
 
@@ -14,6 +18,7 @@ platform you've ever used was crafted by teams of dedicated coders-
 ranging from seasoned experts to eager beginners- working together to 
 bring ideas to life.
 
+<br><br>
 
 ## 🧠 Levels of Abstraction: From Ideas to Binary
 
@@ -21,6 +26,8 @@ Software is like a language that bridges the gap between human thought and
 the electronic signals that run our devices. To make it all work, software 
 is built in layers, each one closer to either human understanding or 
 machine operation. Let's break down these layers, starting from the top:
+
+<br>
 
 ### 1. **Natural Language (Ideas and Requirements)**
 
@@ -32,6 +39,8 @@ ideas expressed in natural language. For example:
 
 This is the highest level of abstraction, where we define what we want the 
 software to do in human terms.
+
+<br>
 
 ### 2. **High-Level Programming Languages**
 
@@ -56,6 +65,8 @@ The program consists of just three lines of code. It will run continuously
 until manually stopped, printing "time to drink" in the console every 3.6 
 seconds.
 
+<br>
+
 ### 3. **Assembly Language**
 
 The next step down is **assembly language**. Here, the code gets much 
@@ -73,6 +84,8 @@ specific instructions that directly interact with the computer's hardware.
 
 Don't worry if you cannot understand the code, I myself am not very fond 
 of this programming language 😄.
+
+<br>
 
 ### 4. **Machine Code (Binary)**
 
@@ -109,6 +122,8 @@ This highlights how the same binary code can have multiple meanings based
 on context, whether it's used for numbers, text, instructions, or even 
 visual data.
 
+<br>
+
 ### 5. **Electronic Signals (Hardware)**
 
 At the very bottom of the stack, we have the physical layer- **electronic 
@@ -118,6 +133,8 @@ and 1s, turning on and off transistors in the computer's hardware.
 Every 0 or 1 is a tiny switch, where 1 means "on" (presence of a signal) 
 and 0 means "off" (absence of a signal). Billions of these switches work 
 together to make your software run.
+
+<br><br>
 
 ## 🎓 Best Practices for Learning Software
 
@@ -144,6 +161,8 @@ optimize performance.
 Stay curious, keep experimenting, and don’t be afraid to explore deeper 
 levels of abstraction.
 
+<br><br>
+
 ## 🌟 Conclusion
 
 Software is all about layers, from the ideas we express in natural 
@@ -154,3 +173,5 @@ foundation to start building your own projects.
 Remember, every complex program starts with simple ideas, and with the 
 right tools and understanding, you can turn those ideas into reality. So, 
 are you ready for liftoff? Let's code!
+
+<br>
