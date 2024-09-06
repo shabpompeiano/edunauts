@@ -26,14 +26,10 @@ Docker works in a similar way. In software development, each environment (develo
 
 Let’s unpack what makes Docker such a powerful tool for developers.
 
-<br>
-
 ### 1. Consistency Across Environments
 Remember those messy workshops? Without Docker, you might build an app on your laptop that works perfectly, but as soon as you take it to the testing or production environment, things fall apart because of differences in configurations.
 
 With Docker, **everything you need is inside the suitcase** (container), so your app behaves the same no matter where you run it—whether on your local machine, a colleague’s system, or a cloud server. Everything inside is consistent and doesn’t depend on the outside environment.
-
-<br>
 
 ### 2. Efficiency and Resource Isolation
 Imagine running several workshops at once, each needing different tools and materials. Without containers, there’s a risk they could share resources and mess things up for each other (someone might take your tools!).
@@ -42,8 +38,6 @@ Docker keeps each container (workshop suitcase) **isolated**. It ensures that ev
 
 * **No interference**: Each container is isolated, so one application’s requirements or issues won’t affect another.
 * **Lightweight**: Containers share the same underlying OS, meaning they’re much faster and use fewer resources than full virtual machines.
-
-<br>
 
 ### 3. Rapid Deployment and Scalability
 
