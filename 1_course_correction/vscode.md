@@ -1,4 +1,4 @@
-# 🖥️ **Mastering Visual Studio Code: Your Guide to Efficient Coding**
+# 🖥️ **Visual Studio Code: Your Guide to Efficient Coding**
 
 ## Introduction: What's an IDE?
 
