@@ -1,4 +1,4 @@
-# 🐍 **Mastering Python Virtual Environments: A Guide to venv and More**
+# 🐍 **Python Virtual Environments: A Guide to venv and More**
 
 ## Introduction: Why Do We Need Virtual Environments?
 
