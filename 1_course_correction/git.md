@@ -1,4 +1,4 @@
-# 🛠️ **Git for Beginners: Your Personal Organizer for Projects**
+# 🐙 **Git for Beginners: Your Personal Organizer for Projects**
 
 <br>
 
