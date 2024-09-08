@@ -1,4 +1,4 @@
-# 🗺️ Code as a Treasure Hunt: Discovering Functions, Variables, and Code Flow
+# 🗺️ Functions, Variables, and Code Flow: Code as a Treasure Hunt!
 
 ## Introduction: Coding is Your Map to the Treasure
 
