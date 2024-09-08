@@ -1,10 +1,17 @@
 # Edunaut, Ready for Liftoff? 🚀
 
+<br>
+
 Welcome to **Liftoff**! This course series is designed to guide absolute beginners through the foundational concepts of software with a clear, step-by-step approach. Whether you’re aiming to understand the basics or looking to start your journey into AI, you’re in the right place. Let’s get started!
+
+<br>
+<br>
 
 ## Course Overview
 
 **Liftoff** is structured into a series of lectures that cover essential concepts in software development. Each lecture is crafted to build your knowledge progressively and intuitively. Here’s what you’ll find in each module:
+
+<br>
 
 ### 🚀 Modules
 
