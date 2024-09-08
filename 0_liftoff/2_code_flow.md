@@ -1,4 +1,4 @@
-# 🗺️ Functions, Variables, and Code Flow: Code as a Treasure Hunt!
+# 🗺️ Functions, Variables, and Code Flow:  the Logic of Programming
 
 ## Introduction: Coding is Your Map to the Treasure
 
