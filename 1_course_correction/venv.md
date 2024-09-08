@@ -1,4 +1,4 @@
-# 🐍 **Mastering Python Virtual Environments: A Guide to venv and More**
+# 🐍 **Python Virtual Environments: A Guide to venv and More**
 
 ## Introduction: Why Do We Need Virtual Environments?
 
@@ -31,6 +31,10 @@ Think of each `venv` as a separate workspace where you have complete control ove
 
 ### 2. **Why Use venv?**
 Let’s say you're working on two Python projects: one needs `Django 3.0`, and the other requires `Django 4.0`. Without virtual environments, installing one version of Django would overwrite the other, leading to compatibility issues. But with `venv`, you can keep each project’s dependencies separate, avoiding the mess.
+
+If you want to dive deeper into the differences between various virtual environment tools like `venv`, `virtualenv`, `pyenv`, and others, I recommend checking out this [StackOverflow discussion](https://stackoverflow.com/questions/41573587/what-is-the-difference-between-venv-pyvenv-pyenv-virtualenv-virtualenvwrappe).
+
+Specifically, this [answer](https://stackoverflow.com/a/47559925) gives a thorough breakdown of why `venv` is often the preferred option for many developers. It explains where each tool stands in the Python ecosystem, helping you understand why we’re using `venv` in this course.
 
 ---
 
