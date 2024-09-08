@@ -8,7 +8,7 @@ Welcome to **Liftoff**! This course series is designed to guide absolute beginne
 
 ### 🚀 Modules
 
-1. **[Bits and Bytes: The Building Blocks of Computing](1_bits.md)**  
+1. **[Basics of Software: Understanding Abstraction](1_bits.md)**  
    *Learn the fundamentals of digital information, including how bits and bytes work together to form the foundation of computing.*
 
 2. **[Code Flow: Navigating the Logic of Programming](2_code_flow.md)**  
