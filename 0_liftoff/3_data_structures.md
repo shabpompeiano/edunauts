@@ -1,4 +1,4 @@
-# 📚 **Data Structures for AI, ML, and Python**
+# 📚 **Data Structures: Organizing Information**
 
 ## Introduction
 
