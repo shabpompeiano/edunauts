@@ -13,16 +13,16 @@ With Eduverse I offer tutorials, guides, and educational material on software en
 <br><br><br>
 
 ## 🚀 Explore The Courses
-1. **[Liftoff: Understanding the Basics of Software]()**
-   *Dive into the fundamentals of software, from natural language to binary code.*
+1. **[Liftoff: Understanding the Basics of Software]()**  
+  *Dive into the fundamentals of software, from natural language to binary code.*
 
-2. **[Hyperdrive: Advanced Topics in AI and Computer Vision]()**
+3. **[Hyperdrive: Advanced Topics in AI and Computer Vision]()**  
    *Expand your knowledge with advanced lessons on AI, machine learning, and computer vision.*
 
-3. **[Cloud Odyssey: Mastering Cloud Computing]()**
+4. **[Cloud Odyssey: Mastering Cloud Computing]()**  
    *Learn about cloud infrastructure, deployment strategies, and cloud services.*
 
-4. **[Codecraft: Essential Coding Skills and Best Practices]()**
+5. **[Codecraft: Essential Coding Skills and Best Practices]()**  
    *Refine your coding skills with best practices and essential programming techniques.*
 
 <br><br><br>
