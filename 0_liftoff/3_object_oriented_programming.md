@@ -1,4 +1,4 @@
-# 🧙 **Object-Oriented Programming (OOP): A Clear and Simple Introduction**
+# 🧙 **Object-Oriented Programming (OOP): Unlock the Secrets**
 
 ## Introduction: What is OOP?
 
