@@ -27,6 +27,4 @@ With Eduverse I offer tutorials, guides, and educational material on software en
 > [!WARNING]
 > Speeding through these tutorials could make your brain twist into a Möbius strip, where learning never stops
 
-PS: Did you know that if you were to compress all the protons in the universe to the point where they’re squeezed into a single point, the universe would still be infinitely large?
-
 <br>
