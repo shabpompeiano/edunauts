@@ -1,4 +1,7 @@
 ## Kickstart your journey from zero to  AI hero
+
+<br>
+
 # 🌐 Edunaut, ready for Liftoff? 🚀
 
 <br>
