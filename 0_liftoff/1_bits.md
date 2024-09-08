@@ -1,4 +1,4 @@
-# 🧑‍💻 Basics of Software: Understanding the Abstraction
+#🧑‍💻 Basics of Software: Understanding Abstraction
 
 <br>
 
