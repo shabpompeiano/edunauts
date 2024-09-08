@@ -1,4 +1,4 @@
-# 🗂️ **File Operations for Beginners: Where and How Data is Stored**
+# 🗂️ **File Operations: Where and How Data is Stored**
 
 ## Introduction: What Happens When You Use a Variable?
 
