@@ -1,4 +1,4 @@
-# 🚀 Liftoff: Understanding the Basics of Software
+# 🧑‍💻 Basics of Software: Understanding the Abstraction
 
 <br>
 
