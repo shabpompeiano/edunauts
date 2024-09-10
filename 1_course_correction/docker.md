@@ -16,7 +16,7 @@ But don’t worry! In this course, we’ll walk through everything step-by-step.
 
 <h2 align="right">But What Is Docker?</h2>
 
-<img src="https://miro.medium.com/v2/1*gVNbunchCV5wXgnwlT-iGg.jpeg" width=500 align=left alt="Docker containerized application">
+<img src="https://i.pinimg.com/564x/86/53/0e/86530ea333a50506843432ac0c1b0040.jpg" align=left height=300>
 
 Imagine going to different workshops, each with its own set of tools. In some, the tools are well-organized, but in others, things are scattered or missing. It's frustrating trying to figure out where everything is before you can even start.
 
@@ -28,7 +28,9 @@ That’s what Docker does for developers. Each software environment (development
 
 ## Diving Deeper: What Makes Docker Special?
 
-Let’s unpack what makes Docker such a powerful tool for developers.
+<img src="https://miro.medium.com/v2/1*gVNbunchCV5wXgnwlT-iGg.jpeg" width=500 align=right alt="Docker containerized application">
+
+Let’s unpack why developers use Docker extensively.
 
 ### 1. Consistency Across Environments
 Remember those messy workshops? Without Docker, you might build an app on your laptop that works perfectly, but as soon as you take it to the testing or production environment, things fall apart because of differences in configurations.
@@ -55,6 +57,8 @@ Since each suitcase is perfectly packed and ready to go, setting up new workshop
 ---
 
 ## Hands-On: Your First Docker Container 🛠️
+
+<img src="https://k21academy.com/wp-content/uploads/2021/06/Peek-2021-06-19-12-14.gif" width=600>
 
 Now that we’ve got the concept down, let’s get hands-on and create our first Docker container.
 
