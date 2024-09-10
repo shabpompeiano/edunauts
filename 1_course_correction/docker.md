@@ -4,6 +4,7 @@
 
 
 Welcome to the Docker course! Docker is a specialized tool that makes life easier for developers by simplifying how we build, deploy, and manage applications. But if you're new to the world of software, Docker might sound like it's from another universe. You may wonder: "What exactly is Docker, and why do developers use it?"
+<img src="https://blog.codewithdan.com/wp-content/uploads/2023/06/Docker-Logo.png" align="right" width="500">
 
 Here’s the thing: **Docker** changes how developers handle software. Normally, setting up an application can be complicated because each environment (like your computer, the testing servers, or the final system where the app runs) is different. Docker solves this problem by packaging everything the app needs- code, libraries, and settings- into a neat container. This makes sure the app runs the same everywhere.
 
@@ -13,7 +14,9 @@ But don’t worry! In this course, we’ll walk through everything step-by-step.
 
 <br><br>
 
-## Introduction: What's Docker?
+<h2 align="right">But What Is Docker?</h2>
+
+<img src="https://miro.medium.com/v2/1*gVNbunchCV5wXgnwlT-iGg.jpeg" width=500 align=left alt="Docker containerized application">
 
 Imagine going to different workshops, each with its own set of tools. In some, the tools are well-organized, but in others, things are scattered or missing. It's frustrating trying to figure out where everything is before you can even start.
 
