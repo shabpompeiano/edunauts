@@ -7,7 +7,7 @@ Welcome to the Docker course! Docker is a specialized tool that makes life easie
 
 Here’s the thing: **Docker** changes how developers handle software. Normally, setting up an application can be complicated because each environment (like your computer, the testing servers, or the final system where the app runs) is different. Docker solves this problem by packaging everything the app needs- code, libraries, and settings- into a neat container. This makes sure the app runs the same everywhere.
 
-That’s a new way of thinking, which is why Docker can feel confusing at first. You’re not just learning a tool—you’re learning a new approach to managing software. Words like **containers**, **images**, and **Dockerfiles** might seem like a lot, especially if this is all new to you.
+That’s a new way of thinking, which is why Docker can feel confusing at first. You’re not just learning a tool, you’re learning a new approach to managing software. Words like **containers**, **images**, and **Dockerfiles** might seem like a lot, especially if this is all new to you.
 
 But don’t worry! In this course, we’ll walk through everything step-by-step. By the end, you'll see how Docker simplifies app deployment and why it’s so important. Ready to set sail? Let’s dive into Docker together!
 
