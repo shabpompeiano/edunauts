@@ -2,9 +2,9 @@
 
 <br>
 
-<p align="justify">Welcome to the **Git** course! Git is an incredibly powerful tool for version control, and learning it will significantly enhance your ability to manage projects and collaborate with others. However, when you first encounter Git, it can feel overwhelming. The idea of managing multiple versions of your project, understanding commits, and navigating branches may seem complex and confusing. It’s easy to feel lost among the numerous features and commands.</p>
+Welcome to the **Git** course! Git is an incredibly powerful tool for version control, and learning it will significantly enhance your ability to manage projects and collaborate with others. However, when you first encounter Git, it can feel overwhelming. The idea of managing multiple versions of your project, understanding commits, and navigating branches may seem complex and confusing. It’s easy to feel lost among the numerous features and commands.
 
-<p align="justify">Remember, this confusion is a normal part of the learning process. Git’s power lies in its flexibility and depth, but this also means it takes some time to grasp fully. The key is to approach Git with patience and a step-by-step mindset. Start with the basics, experiment with small changes, and gradually build your understanding. As you become more familiar with Git’s concepts and commands, it will start to make more sense and become an invaluable tool in your development workflow.</p>
+Remember, this confusion is a normal part of the learning process. Git’s power lies in its flexibility and depth, but this also means it takes some time to grasp fully. The key is to approach Git with patience and a step-by-step mindset. Start with the basics, experiment with small changes, and gradually build your understanding. As you become more familiar with Git’s concepts and commands, it will start to make more sense and become an invaluable tool in your development workflow.
 
 <img src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png" align=right width=400>
 
