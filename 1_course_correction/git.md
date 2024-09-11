@@ -2,15 +2,22 @@
 
 <br>
 
-Welcome to the **Git** course! Git is an incredibly powerful tool for version control, and learning it will significantly enhance your ability to manage projects and collaborate with others. However, when you first encounter Git, it can feel overwhelming. The idea of managing multiple versions of your project, understanding commits, and navigating branches may seem complex and confusing. It’s easy to feel lost among the numerous features and commands.
+<p align="justify">Welcome to the **Git** course! Git is an incredibly powerful tool for version control, and learning it will significantly enhance your ability to manage projects and collaborate with others. However, when you first encounter Git, it can feel overwhelming. The idea of managing multiple versions of your project, understanding commits, and navigating branches may seem complex and confusing. It’s easy to feel lost among the numerous features and commands.</p>
 
-Remember, this confusion is a normal part of the learning process. Git’s power lies in its flexibility and depth, but this also means it takes some time to grasp fully. The key is to approach Git with patience and a step-by-step mindset. Start with the basics, experiment with small changes, and gradually build your understanding. As you become more familiar with Git’s concepts and commands, it will start to make more sense and become an invaluable tool in your development workflow.
+<p align="justify">Remember, this confusion is a normal part of the learning process. Git’s power lies in its flexibility and depth, but this also means it takes some time to grasp fully. The key is to approach Git with patience and a step-by-step mindset. Start with the basics, experiment with small changes, and gradually build your understanding. As you become more familiar with Git’s concepts and commands, it will start to make more sense and become an invaluable tool in your development workflow.</p>
+
+<img src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png" align=right width=400>
 
 By taking it one step at a time and practicing regularly, you’ll transform that initial confusion into confidence and proficiency.
+
 
 <br><br>
 
 ## Introduction: What's Git?
+
+<!--<img src="https://ohmygit.org/assets/images/oh-my-git.png" align=right width=300>-->
+<img src="https://res.cloudinary.com/teepublic/image/private/s--3nSj5jaC--/t_Resized Artwork/c_fit,g_north_west,h_954,w_954/co_191919,e_outline:48/co_191919,e_outline:inner_fill:48/co_ffffff,e_outline:48/co_ffffff,e_outline:inner_fill:48/co_bbbbbb,e_outline:3:1000/c_mpad,g_center,h_1260,w_1260/b_rgb:eeeeee/c_limit,f_auto,h_630,q_auto:good:420,w_630/v1508919376/production/designs/1998607_1.jpg" align=right width=300>
+
 
 Imagine you're organizing a large family event, like a wedding. You have different people working on various tasks—some are planning the menu, others are handling decorations, and some are coordinating the guest list. As the event approaches, you need to keep track of who’s done what and ensure that everyone is on the same page.
 
@@ -23,6 +30,10 @@ That’s what **Git** does for your code!
 <br><br>
 
 ## Diving Deeper: How Does Git Work?
+
+<p align=center>
+<img src="https://wac-cdn.atlassian.com/dam/jcr:a905ddfd-973a-452a-a4ae-f1dd65430027/01%20Git%20branch.svg?cdnVersion=2229" width=600>
+</p>
 
 Let’s explore how Git functions and why it’s crucial for managing projects.
 
