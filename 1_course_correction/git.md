@@ -127,11 +127,12 @@ Git may feel overwhelming at first, but with practice, you’ll start to see how
 
 ---
 
-## Understanding Git as a Tool
+> **ℹ️ Understanding Git as a Tool**
+> 
+> Git is a powerful software tool for version control, but it's not the only one. Platforms like GitHub, GitLab, and others are built on Git, offering additional features and interfaces for managing repositories. 
+> 
+> The core Git commands and principles are the same across all platforms. You can choose whichever platform suits your needs, and still work with the same underlying system for version control and collaboration.
 
-It’s important to note that Git itself is a powerful software tool designed for version control, but it’s not the only tool of its kind. Different companies have implemented their own platforms based on Git, such as **GitHub**, **GitLab**, and others. These platforms provide various additional features and interfaces for working with Git repositories, but they all work with the same underlying system.
-
-This means that whether you use GitHub, GitLab, or another Git-based platform, the core principles and commands of Git remain the same. You can choose any of these platforms based on your preferences or project needs, and you'll be using the same Git system to manage your project’s versions and collaborate with others. Each platform may offer different functionalities and integrations, but they all support the fundamental Git operations that you'll learn in this course.
 
 <br>
 
