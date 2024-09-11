@@ -18,9 +18,13 @@ Now, imagine working on a much bigger project, with multiple people contributing
 - *Who made these changes?*
 - *Can I go back to how it was before?*
 
+<br>
+
 ### Enter Git: A Project Memory Keeper
 
 Git solves this exact problem by giving you a **memory** for your project. It keeps track of every single change you (or your teammates) make, allowing you to go back in time, work on different parts separately, and even collaborate without getting lost in the mess of versions.
+
+<br>
 
 ### What Git Does for You:
 
@@ -30,7 +34,7 @@ Git solves this exact problem by giving you a **memory** for your project. It ke
 
 So instead of getting lost in a tangle of versions, Git acts as your project’s memory, helping you stay in control.
 
----
+<br><br><br>
 
 ### How Does Git Work?
 
@@ -51,7 +55,7 @@ Git doesn't just save new versions of your files; it saves **snapshots** of your
 
     - **Example**: A commit message might be something like "Fixed the bug in the login feature" or "Added new images for the homepage."
 
----
+<br>
 
 ### 2. **Your Own Workspace: Local Changes**
 
@@ -61,7 +65,7 @@ Let’s say you’re working on a big group project. With Git, everyone gets the
   
 - **Syncing with others**: When you're ready, you can **push** your changes to the group’s version of the project (called the **remote repository**) so everyone can see them. You can also **pull** updates that others have made to keep your copy up to date.
 
----
+<br>
 
 ### 3. **Branches: Separate Workspaces for Different Ideas**
 
@@ -73,7 +77,7 @@ In Git, you don’t have to work on the same thing as everyone else at the same 
 
     - **Example**: You’re working on adding a new feature to a website, like a dark mode. Instead of adding it directly to the final version, you create a branch called "dark-mode" and work on it there. Once it’s done and you’re sure it works, you merge it into the main project.
 
----
+<br>
 
 ### 4. **Collaboration Made Easy: Merging and Conflicts**
 
@@ -85,7 +89,7 @@ Working in teams can get tricky. What happens if two people make changes at the 
 
     - **Example**: Imagine you and a teammate both edited the guest list for an event. Git will show you both versions and ask which one to keep—or if you want to combine them.
 
----
+<br>
 
 ### 5. **Tracking History: Blame and Logs**
 
@@ -96,7 +100,7 @@ As your project grows, you may want to look back at who made changes and why.
 - **Blame**: This command lets you see who last edited each line of code in a file. If something goes wrong, you can track down the person who made that change and figure out what happened.
 
 
----
+<br><br><br>
 
 ## Key Concepts to Master
 
@@ -109,9 +113,9 @@ When you’ve finished a task (like finalizing decorations) and want to include 
 ### 3. **Conflicts**
 Sometimes, two people might make different changes to the same part of the plan. This results in a **merge conflict**. Git helps you resolve these conflicts by showing you exactly where the discrepancies are.
 
-<br>
 
----
+<br><br><br>
+
 <img src="https://res.cloudinary.com/teepublic/image/private/s--3nSj5jaC--/t_Resized Artwork/c_fit,g_north_west,h_954,w_954/co_191919,e_outline:48/co_191919,e_outline:inner_fill:48/co_ffffff,e_outline:48/co_ffffff,e_outline:inner_fill:48/co_bbbbbb,e_outline:3:1000/c_mpad,g_center,h_1260,w_1260/b_rgb:eeeeee/c_limit,f_auto,h_630,q_auto:good:420,w_630/v1508919376/production/designs/1998607_1.jpg" align=right width=150>
 
 ### Summary: Git Makes Life Easier
@@ -125,6 +129,8 @@ By now, you should have a clearer understanding of why Git is such an essential 
 
 Git may feel overwhelming at first, but with practice, you’ll start to see how it keeps your projects organized and stress-free.
 
+<br>
+
 ---
 
 > **ℹ️ Understanding Git as a Tool**
@@ -134,9 +140,7 @@ Git may feel overwhelming at first, but with practice, you’ll start to see how
 > The core Git commands and principles are the same across all platforms. You can choose whichever platform suits your needs, and still work with the same underlying system for version control and collaboration.
 
 
-<br>
-
----
+<br><br><br>
 
 ## Hands-On: Getting Started with Git and GitHub
 
@@ -174,21 +178,9 @@ git push -u origin main  # Uploads your plans to GitHub
 
 Now your event planning is accessible online, and you can collaborate with your team!
 
-<br>
+<br><br><br>
 
----
-
-## What’s Next?
-
-You’ve learned the basics of Git and GitHub! In the upcoming lessons, we’ll cover:
-
-- **Branching strategies**: Efficient ways to manage multiple tasks or features.
-- **Collaborating with teams**: How to work smoothly with others on a shared project.
-- **Git best practices**: Writing clear commit messages, managing branches, and keeping your repository organized.
-
----
-
-## Best Practices for Git (Preview)
+## Git Protips 🌟
 
 As you dive deeper, remember these best practices:
 
