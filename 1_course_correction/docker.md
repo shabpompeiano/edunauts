@@ -12,7 +12,7 @@ That’s a new way of thinking, which is why Docker can feel confusing at first.
 
 But don’t worry! In this course, we’ll walk through everything step-by-step. By the end, you'll see how Docker simplifies app deployment and why it’s so important. Ready to set sail? Let’s dive into Docker together!
 
-<br><br>
+<br><br><br>
 
 <h2 align="right">But What Is Docker?</h2>
 
@@ -24,7 +24,7 @@ Now, imagine bringing your own suitcase to each workshop, perfectly packed with 
 
 That’s what Docker does for developers. Each software environment (development, testing, production) can be like a messy workshop, with missing or misconfigured pieces. Docker allows developers to pack everything their app needs into one container (or “suitcase”) that works everywhere, no matter how messy the environment is.
 
-<br><br>
+<br><br><br>
 
 ## Diving Deeper: What Makes Docker Special?
 
@@ -52,7 +52,7 @@ Since each suitcase is perfectly packed and ready to go, setting up new workshop
 * **Quick start**: Containers start up in seconds, unlike virtual machines, which can take minutes to boot.
 * **Effortless scaling**: Imagine you run a popular food truck. As more people start showing up, you need more trucks to serve them. With Docker, it’s easy to "clone" your food truck (or app) so you can handle more customers (or users) without changing anything inside the truck. This means that if a lot of people start using your app, you can quickly create more containers (copies of your app) to keep everything running smoothly.
 
-<br>
+<br><br><br>
 
 ---
 
@@ -84,20 +84,11 @@ This command will:
 - The app ran successfully, and you didn’t need to worry about dependencies or setup—it was all in the suitcase!
 
 <br>
+Great success! You've just run your first Docker container 🔥
 
----
+<br><br><br>
 
-## What's Next?
-
-Great job! You've just run your first Docker container. In the next lesson, we’ll take things further by showing you how to:
-
-- Pack your own "suitcase" by creating Docker images.
-- Use Dockerfiles to automate the creation of containers.
-- Share your containers with others using Docker Hub.
-
----
-
-## Best Practices for Docker (Preview)
+## Docker Protips 💡
 
 As you move forward with Docker, you’ll want to keep these best practices in mind:
 
